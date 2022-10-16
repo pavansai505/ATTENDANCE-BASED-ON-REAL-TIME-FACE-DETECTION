@@ -1,0 +1,2 @@
+We created our own dataset of 60 students consisting images and individual their names for classification task
+and tunned pretrained models on these datset for face detections and embendings
